@@ -1,0 +1,5 @@
+---
+title: "Curriculum Vitae"
+---
+<br>
+Available [here](GibsonResume.pdf).
