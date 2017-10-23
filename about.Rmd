@@ -5,4 +5,4 @@ title: "About"
 ### About this site
 
 
-I created this website using R Markdown. All the relevant materials are [here](https://github.com/lizzyagibson).
+I created this website using R Markdown. All the relevant materials are [here](https://github.com/lizzyagibson/lizzyagibson.github.io).
