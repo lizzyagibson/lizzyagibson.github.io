@@ -1,7 +1,7 @@
 name: "Yay internet!"
 output_dir: "."
 navbar:
-  title: "Lizzy Gibson"
+  title: "Home"
   right:
     - text: "Publications"
       href: projects.html
