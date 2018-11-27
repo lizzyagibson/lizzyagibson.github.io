@@ -11,18 +11,20 @@
 
 
 
-<title>Projects</title>
+<title>Publications</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/united.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -31,10 +33,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -89,6 +93,9 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
 }
@@ -98,34 +105,34 @@ button.code-folding-btn:focus {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 61px;
+  padding-top: 51px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 
 .section h2 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 .section h3 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 .section h4 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 .section h5 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 .section h6 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 </style>
 
@@ -180,10 +187,7 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="projects.html">Projects</a>
-</li>
-<li>
-  <a href="about.html">About</a>
+  <a href="projects.html">Publications</a>
 </li>
 <li>
   <a href="mailto:&lt;eag2186@cumc.columbia.edu&gt;">
@@ -212,12 +216,16 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Projects</h1>
+<h1 class="title toc-ignore">Publications</h1>
 
 </div>
 
 
-<p>New projects involving children’s environmental health will go here.</p>
+<p><br></p>
+<p>Gibson EA, Siegel E, Eniola F, Herbstman J, Factor-Litvak P. Effects of polybrominated diphenyl ethers on child cognitive, behavioral, and motor development. International journal of environmental research and public health. 2018 Aug 2;15(8):1636. <a href="papers/gibson_ijerph.pdf">PDF</a></p>
+<p>Gibson EA, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Herbstman JB. Flame retardant exposure assessment: findings from a behavioral intervention study. Journal of exposure science &amp; environmental epidemiology. 2018 Jun 28:1. <a href="papers/gibson_jesee.pdf">PDF</a></p>
+<p>Wasserman GA, Liu X, Parvez F, Chen Y, Factor-Litvak P, LoIacono NJ, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxena R, Gibson EA, Kioumourtzoglou MA, Balac O, Sanchez T, Kline JK, Santiago D, Ellis T, van Geen A, Graziano JH. A cross-sectional study of water arsenic exposure and intellectual function in adolescence in Araihazar, Bangladesh. Environment International. 2018 Sep 30;118:304-13. <a href="papers/wasserman.pdf">PDF</a></p>
+<p>Lane K, Ito K, Johnson S, Gibson EA, Tang A, Matte T. Burden and risk factors for cold-related illness and death in New York City. International journal of environmental research and public health. 2018 Mar 30;15(4):632. <a href="papers/lane.pdf">PDF</a></p>
 
 
 
@@ -242,7 +250,7 @@ $(document).ready(function () {
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
-    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>

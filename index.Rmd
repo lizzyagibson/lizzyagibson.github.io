@@ -2,10 +2,15 @@
 title: "Lizzy Gibson"
 ---
 
-### *PhD student in Environmental Health Sciences*
-### *Columbia University Mailman School of Public Health*
+<img src="images/animation.gif" style="width:30%; border:10px solid #000000" ALIGN = "right" HSPACE="75"" VSPACE="25" />
 
-<br><center><img src="images/wall.jpg" style="width:75%; border:10px solid #000000"></center>
+### *PhD candidate*
+### *Environmental Health Sciences*
+#### *Mailman School of Public Health*
+#### *Columbia University*
+
+
+
 <br> 
 
 Lizzy received a BA in environmental science from [Emory University](http://www.emory.edu/home/index.html) in 2010 and an MPH in epidemiology from [Mailman School of Public Health](https://www.mailman.columbia.edu/) at Columbia University in 2016. She spent a couple of years as a [Peace Corps volunteer](https://www.peacecorps.gov/) in the Republic of Panama in between, where she helped to build energy-efficient cookstoves in her community and learned to throw a lasso.
@@ -14,13 +19,7 @@ She is currently working with the [Columbia Center for Children's Environmental 
 <br>
 <br>
 
-### Curriculum Vitae
-
-Her full CV is available [here](cv.html).
-<br>
-<br>
-
-### Contact Information
+#### Contact Information
 
 Lizzy Gibson
 <br>

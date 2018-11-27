@@ -15,14 +15,16 @@
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/united.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -31,10 +33,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -89,6 +93,9 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
 }
@@ -98,34 +105,34 @@ button.code-folding-btn:focus {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 61px;
+  padding-top: 51px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 
 .section h2 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 .section h3 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 .section h4 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 .section h5 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 .section h6 {
-  padding-top: 66px;
-  margin-top: -66px;
+  padding-top: 56px;
+  margin-top: -56px;
 }
 </style>
 
@@ -180,10 +187,7 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="projects.html">Projects</a>
-</li>
-<li>
-  <a href="about.html">About</a>
+  <a href="projects.html">Publications</a>
 </li>
 <li>
   <a href="mailto:&lt;eag2186@cumc.columbia.edu&gt;">
@@ -217,27 +221,26 @@ $(document).ready(function () {
 </div>
 
 
-<div id="phd-student-in-environmental-health-sciences" class="section level3">
-<h3><em>PhD student in Environmental Health Sciences</em></h3>
+<p><img src="images/ANIMATION.gif" style="width:30%; border:10px solid #000000" ALIGN = "right" HSPACE="75"" VSPACE="25" /></p>
+<div id="phd-candidate" class="section level3">
+<h3><em>PhD candidate</em></h3>
 </div>
-<div id="columbia-university-mailman-school-of-public-health" class="section level3">
-<h3><em>Columbia University Mailman School of Public Health</em></h3>
-<br>
-<center>
-<img src="images/wall.jpg" style="width:75%; border:10px solid #000000">
-</center>
+<div id="environmental-health-sciences" class="section level3">
+<h3><em>Environmental Health Sciences</em></h3>
+<div id="mailman-school-of-public-health" class="section level4">
+<h4><em>Mailman School of Public Health</em></h4>
+</div>
+<div id="columbia-university" class="section level4">
+<h4><em>Columbia University</em></h4>
 <p><br></p>
 <p>Lizzy received a BA in environmental science from <a href="http://www.emory.edu/home/index.html">Emory University</a> in 2010 and an MPH in epidemiology from <a href="https://www.mailman.columbia.edu/">Mailman School of Public Health</a> at Columbia University in 2016. She spent a couple of years as a <a href="https://www.peacecorps.gov/">Peace Corps volunteer</a> in the Republic of Panama in between, where she helped to build energy-efficient cookstoves in her community and learned to throw a lasso.</p>
 <p>She is currently working with the <a href="http://ccceh.org/">Columbia Center for Children’s Environmental Health</a> to study the effects of prenatal and early lifecourse exposures on child development. Her research generally involves the analysis of longitudinal data and complex mixtures of exposure. Recent projects have focused on simultaneous exposure to mutiple heavy metals and cognitive development in adolescents in a Bangladeshi cohort and interventions to reduce exposure to flame retardants of multiple classes in mothers and children in NYC. <br> <br></p>
 </div>
-<div id="curriculum-vitae" class="section level3">
-<h3>Curriculum Vitae</h3>
-<p>Her full CV is available <a href="cv.html">here</a>. <br> <br></p>
-</div>
-<div id="contact-information" class="section level3">
-<h3>Contact Information</h3>
+<div id="contact-information" class="section level4">
+<h4>Contact Information</h4>
 <p>Lizzy Gibson <br> <a href="https://www.mailman.columbia.edu/become-student/departments/environmental-health-sciences-ehs">Department of Environmental Health Sciences</a> <br> <a href="https://www.mailman.columbia.edu/">Columbia Mailman School of Public Health</a> <br> 722 West 168th Street <br> New York, New York 10032</p>
 <p>Email: <a href="mailto:eag2186@cumc.columbia.edu">eag2186@cumc.columbia.edu</a></p>
+</div>
 </div>
 
 
@@ -263,7 +266,7 @@ $(document).ready(function () {
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
-    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>
