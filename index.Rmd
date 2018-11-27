@@ -2,7 +2,7 @@
 title: "Lizzy Gibson"
 ---
 
-<img src="images/ANIMATION.gif" style="width:40%; border:10px solid #000000" ALIGN = "right" HSPACE="75"" VSPACE="25" />
+<img loop=infinite src="images/ANIMATION.gif" style="width:40%; border:10px solid #000000" ALIGN = "right" HSPACE="75"" VSPACE="25" />
 
 ### *PhD candidate*
 ### *Environmental Health Sciences*
