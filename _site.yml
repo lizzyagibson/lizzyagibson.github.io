@@ -6,7 +6,7 @@ navbar:
     - text: "Publications"
       href: projects.html
     - icon: fa-envelope-o fa-lg
-      href: mailto:<eag2186@cumc.columbia.edu>
+      href: mailto:<e.a.gibson@columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/lizzyagibson/
     - icon: fa-linkedin-square fa-lg
