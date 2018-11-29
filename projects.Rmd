@@ -3,7 +3,7 @@ title: "Publications"
 ---
 <br>
 
-**Gibson EA**, Siegel E, Eniola F, Herbstman J, Factor-Litvak P. Effects of polybrominated diphenyl ethers on child cognitive, behavioral, and motor development. International journal of environmental research and public health. 2018 Aug 2;15(8):1636. [PDF](papers/gibson_ijerph.pdf)
+**Gibson EA**, Siegel EL, Eniola F, Herbstman JB, Factor-Litvak P. Effects of polybrominated diphenyl ethers on child cognitive, behavioral, and motor development. International journal of environmental research and public health. 2018 Aug 2;15(8):1636. [PDF](papers/gibson_ijerph.pdf)
 
 **Gibson EA**, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Herbstman JB. Flame retardant exposure assessment: findings from a behavioral intervention study. Journal of exposure science & environmental epidemiology. 2018 Jun 28:1. [PDF](papers/gibson_jesee.pdf)
 
