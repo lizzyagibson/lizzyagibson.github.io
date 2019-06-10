@@ -5,7 +5,7 @@ title: "Publications"
 
 ## Peer-reviewed Articles
 
-**Gibson EA**, Goldsmith J, Kioumourtzoglou M-A. Complex Mixtures, Complex Analyses: an Emphasis on Interpretable Results. Current Environmental Health Reports. 2019 May 8; doi: 10.1007/s40572-019-00229-5. [PDF](papers/gibson_cehr.pdf)
+**Gibson EA**, Goldsmith J, Kioumourtzoglou MA. Complex Mixtures, Complex Analyses: an Emphasis on Interpretable Results. Current environmental health reports. 2019 May 8:1-9. [PDF](papers/gibson_cehr.pdf)
 
 **Gibson EA**, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Anderson KA, Herbstman JB. Differential exposure to organophosphate flame retardants in mother-child pairs. Chemosphere. 2018 Dec 4; 219: 567-73. [PDF](papers/gibson_chemo.pdf)
 
