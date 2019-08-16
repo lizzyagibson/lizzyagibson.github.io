@@ -5,21 +5,25 @@ title: "Publications"
 
 ## Peer-reviewed Articles
 
-**Gibson EA**, Goldsmith J, Kioumourtzoglou MA. Complex Mixtures, Complex Analyses: an Emphasis on Interpretable Results. Current environmental health reports. 2019 May 8:1-9. [PDF](papers/gibson_cehr.pdf)
+**Gibson EA**, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Golsmith J, Coull BA, Kioumourtzoglou M-A. An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length. Environmental Health. In Press, 2019.
+
+**Gibson EA**, Goldsmith J, Kioumourtzoglou M-A. Complex Mixtures, Complex Analyses: an Emphasis on Interpretable Results. Current Environmental Health Reports. 2019 May 8:1-9. [PDF](papers/gibson_cehr.pdf)
 
 **Gibson EA**, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Anderson KA, Herbstman JB. Differential exposure to organophosphate flame retardants in mother-child pairs. Chemosphere. 2018 Dec 4; 219: 567-73. [PDF](papers/gibson_chemo.pdf)
 
-**Gibson EA**, Siegel EL, Eniola F, Herbstman JB, Factor-Litvak P. Effects of polybrominated diphenyl ethers on child cognitive, behavioral, and motor development. International journal of environmental research and public health. 2018 Aug 2; 15(8): 1636. [PDF](papers/gibson_ijerph.pdf)
+**Gibson EA**, Siegel EL, Eniola F, Herbstman JB, Factor-Litvak P. Effects of polybrominated diphenyl ethers on child cognitive, behavioral, and motor development. International Journal of Environmental Research and Public Health. 2018 Aug 2; 15(8): 1636. [PDF](papers/gibson_ijerph.pdf)
 
-**Gibson EA**, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Herbstman JB. Flame retardant exposure assessment: findings from a behavioral intervention study. Journal of exposure science & environmental epidemiology. 2018 Jun 28: 1. [PDF](papers/gibson_jesee.pdf)
+**Gibson EA**, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Herbstman JB. Flame retardant exposure assessment: findings from a behavioral intervention study. Journal of Exposure Science & Environmental Epidemiology. 2018 Jun 28: 1. [PDF](papers/gibson_jesee.pdf)
 
 Wasserman GA, Liu X, Parvez F, Chen Y, Factor-Litvak P, LoIacono NJ, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxena R, **Gibson EA**, Kioumourtzoglou M-A, Balac O, Sanchez T, Kline JK, Santiago D, Ellis T, van Geen A, Graziano JH. A cross-sectional study of water arsenic exposure and intellectual function in adolescence in Araihazar, Bangladesh. Environment International. 2018 Sep 30; 118: 304-13. [PDF](papers/wasserman.pdf)
 
-Lane K, Ito K, Johnson S, **Gibson EA**, Tang A, Matte T. Burden and risk factors for cold-related illness and death in New York City. International journal of environmental research and public health. 2018 Mar 30; 15(4): 632. [PDF](papers/lane.pdf)
+Lane K, Ito K, Johnson S, **Gibson EA**, Tang A, Matte T. Burden and risk factors for cold-related illness and death in New York City. International Journal of Environmental Research and Public Health. 2018 Mar 30; 15(4): 632. [PDF](papers/lane.pdf)
 
 <br>
 
 ## Conference Presentations
+
+**Gibson EA**, Spratlen MJ, Colgan R, Wright J, Goldsmith J, Perera FP, Factor-Litvak P, Herbstman JB, Kioumourtzoglou M-A. Patterns of phenol, paraben & phthalate exposure in NYC women. Poster presentation for the International Society for Environmental Epidemiology (ISEE). August 2019. Utrecht, Netherlands. [PDF](papers/niehs_pcp_poster.pdf)
 
 **Gibson EA**, Nunez Y, Kioumourtzoglou M-A. Overview of Commonly-Used Methods to Analyze Exposure to Mixtures in Environmental Epidemiology. Poster presentation for the Powering Research Through Innovative Methods for Mixtures in Epidemiology (PRIME) Program Meeting, National Institute of Environmental Health Sciences (NIEHS). April 2019. Research Triangle Park, NC, USA. [PDF](papers/NIEHS_PRIME_Overview.pdf) | [Code](https://github.com/lizzyagibson/NIEHS-PRIME-Overview-Poster)
 
