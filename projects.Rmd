@@ -5,6 +5,8 @@ title: "Publications"
 
 ## Peer-reviewed Articles
 
+Chen Y, Wu F, Liu X, Parvez F, LoIacono NJ, **Gibson EA**, Kioumourtzoglou M-A, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxena R, Sanchez T, Santiago D, Ellis T, Ahsan H, Wasserman GA, Graziano JH. Early life and adolescent arsenic exposure from drinking water and blood pressure in adolescence, Environmental Research. In Press, 2019.
+
 **Gibson EA**, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Golsmith J, Coull BA, Kioumourtzoglou M-A. An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length. Environmental Health. In Press, 2019.
 
 **Gibson EA**, Goldsmith J, Kioumourtzoglou M-A. Complex Mixtures, Complex Analyses: an Emphasis on Interpretable Results. Current Environmental Health Reports. 2019 May 8:1-9. [PDF](papers/gibson_cehr.pdf)
