@@ -5,6 +5,8 @@ navbar:
   right:
     - text: "Publications"
       href: projects.html
+    - text: "CV"
+      href: main_gibson.pdf
     - text: "makLab"
       href: https://marianthi.github.io/makLAB.github.io/index.html
     - icon: fa-envelope-o fa-lg
