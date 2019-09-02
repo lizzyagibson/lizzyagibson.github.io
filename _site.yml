@@ -10,6 +10,7 @@ navbar:
       target: "_blank"
     - text: "makLab"
       href: https://marianthi.github.io/makLAB.github.io/index.html
+      target: "_blank"
     - icon: fa-envelope-o fa-lg
       href: mailto:<e.a.gibson@columbia.edu>
     - icon: fa-github fa-lg
