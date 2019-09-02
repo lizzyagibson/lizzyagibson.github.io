@@ -7,6 +7,7 @@ navbar:
       href: projects.html
     - text: "CV"
       href: main_gibson.pdf
+      target: "_blank"
     - text: "makLab"
       href: https://marianthi.github.io/makLAB.github.io/index.html
     - icon: fa-envelope-o fa-lg
