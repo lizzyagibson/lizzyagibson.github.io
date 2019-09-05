@@ -7,7 +7,7 @@ navbar:
       href: projects.html
     - text: "CV"
       href: main_gibson.pdf
-      target: newtab
+      target: "newtab"
     - text: "makLab"
       href: https://marianthi.github.io/makLAB.github.io/index.html
       target: "_blank"
