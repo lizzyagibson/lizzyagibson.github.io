@@ -5,7 +5,7 @@ title: "Publications"
 
 ## Peer-reviewed Articles
 
-Chen Y, Wu F, Liu X, Parvez F, LoIacono NJ, **Gibson EA**, Kioumourtzoglou M-A, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxena R, Sanchez T, Santiago D, Ellis T, Ahsan H, Wasserman GA, Graziano JH. Early life and adolescent arsenic exposure from drinking water and blood pressure in adolescence. Environmental Research. 2019 Aug 20:108681. In Press.
+Chen Y, Wu F, Liu X, Parvez F, LoIacono NJ, **Gibson EA**, Kioumourtzoglou MA, Levy D, Shahriar H, Uddin MN, Islam T. Early life and adolescent arsenic exposure from drinking water and blood pressure in adolescence. Environmental Research. 2019 Aug 20:108681. [PDF](papers/chen_er.pdf)
 
 **Gibson EA**, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Goldsmith J, Coull BA, Kioumourtzoglou MA. An overview of methods to address distinct research questions on environmental mixtures: an application to persistent organic pollutants and leukocyte telomere length. Environmental Health. 2019 Dec 1; 18(1): 76. [PDF](papers/gibson_eh.pdf)
 
