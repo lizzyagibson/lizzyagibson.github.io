@@ -7,8 +7,10 @@ navbar:
       href: projects.html
     - text: "CV"
       href: "CV/main_gibson.pdf"
+      external: true
     - text: "makLab"
       href: https://marianthi.github.io/makLAB.github.io/index.html
+      external: true
     - icon: fa-envelope-o fa-lg
       href: mailto:<e.a.gibson@columbia.edu>
     - icon: fa-github fa-lg
