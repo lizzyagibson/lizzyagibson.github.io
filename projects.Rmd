@@ -1,6 +1,9 @@
 ---
 title: "Publications"
 ---
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicons-1.8.6/css/academicons.min.css"/>
+
 <br>
 
 ## Peer-reviewed Articles
