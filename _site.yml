@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "Publications"
       href: projects.html
-    - text: "CV"
+    - icon: ai-cv ai-lg
       href: "CV/main_gibson.pdf"
       external: true
     - text: "makLab"
@@ -15,6 +15,8 @@ navbar:
       href: mailto:<e.a.gibson@columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/lizzyagibson/
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=zWkIfpIAAAAJ
     - icon: fa-linkedin-square fa-lg
       href: https://www.linkedin.com/in/elizabeth-gibson-2689b272/
 output:
