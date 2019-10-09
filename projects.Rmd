@@ -28,6 +28,8 @@ Lane K, Ito K, Johnson S, **Gibson EA**, Tang A, Matte T. Burden and risk factor
 
 ## Conference Presentations
 
+**Gibson EA**, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Goldsmith J, Coull BA, and Kioumourtzoglou M-A. An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length. Oral Presentation for Seminar Series, Environmental Health Sciences Department (EHS), Mailman School of Public Health (MSPH), Columbia University. Oct 2019. New York, NY, USA. [PDF](papers/EHS_Seminar_Oct_7.pdf){target="_blank"}
+
 **Gibson EA**, Spratlen MJ, Colgan R, Wright J, Goldsmith J, Perera FP, Factor-Litvak P, Herbstman JB, Kioumourtzoglou M-A. Patterns of phenol, paraben & phthalate exposure in NYC women. Poster presentation for the International Society for Environmental Epidemiology (ISEE). August 2019. Utrecht, Netherlands. [PDF](papers/niehs_pcp_poster.pdf){target="_blank"} 
 
 **Gibson EA**, Nunez Y, Kioumourtzoglou M-A. Overview of Commonly-Used Methods to Analyze Exposure to Mixtures in Environmental Epidemiology. Poster presentation for the Powering Research Through Innovative Methods for Mixtures in Epidemiology (PRIME) Program Meeting, National Institute of Environmental Health Sciences (NIEHS). April 2019. Research Triangle Park, NC, USA. [PDF](papers/NIEHS_PRIME_Overview.pdf){target="_blank"}  | [Code](https://github.com/lizzyagibson/NIEHS-PRIME-Overview-Poster)
