@@ -11,18 +11,20 @@
 % ---------------
 
 \usepackage[british]{babel} % for correct language and hyphenation and stuff
-\usepackage{calc}           % for easier length calculations (infix notation)
+\usepackage{calc}                % for easier length calculations (infix notation)
 \usepackage{enumitem}       % for configuring list environments
-\usepackage{fancyhdr}       % for setting header and footer
-\usepackage{fontspec}       % for fonts
+\usepackage{fancyhdr}       	 % for setting header and footer
+\usepackage{fontspec}      	 % for fonts
 \usepackage[scaled]{helvet}
 \usepackage{geometry}       % for setting margins (\newgeometry)
-\usepackage{graphicx}       % for pictures
+\usepackage{graphicx}        % for pictures
 \usepackage{microtype}      % for microtypography stuff
-\usepackage{xcolor}         % for colours
+\usepackage{xcolor}            % for colours
 \usepackage[document]{ragged2e}
 \usepackage{hyperref}
-\usepackage{etaremune} % for reverse enumerate
+\usepackage[light]{roboto}  %% Option 'sfdefault' only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+\usepackage{etaremune} 	% for reverse enumerate
 
 \hypersetup{
     colorlinks,%
@@ -69,12 +71,12 @@
 % font families
 \defaultfontfeatures{Ligatures=TeX} % reportedly a good idea, see https://tex.stackexchange.com/a/37251
 
-\newfontfamily{\cvnamefont}{Georgia Bold}
-\newfontfamily{\cvsectionfont}{Georgia Bold}
-\newfontfamily{\cvtitlefont}{Georgia Bold}
-\newfontfamily{\cvdurationfont}{Georgia Italic}
-\newfontfamily{\cvheadingfont}{Georgia Bold}
-\setmainfont{Georgia}
+\newfontfamily{\cvnamefont}{Roboto Medium}
+\newfontfamily{\cvsectionfont}{Roboto Medium}
+\newfontfamily{\cvtitlefont}{Roboto Regular}
+\newfontfamily{\cvdurationfont}{Roboto Light Italic}
+\newfontfamily{\cvheadingfont}{Roboto Regular}
+\setmainfont{Roboto Light}
 
 % colours
 \definecolor{cvnamecolor}{HTML}{000000}
@@ -248,7 +250,7 @@
 
 \cvpersonalinfo{
     % name
-    \cvname{Elizabeth A. Gibson}
+    \huge\cvnamefont{Elizabeth A. Gibson}
 
 }{
     % address
@@ -259,8 +261,7 @@
     % email address
     {
        \href{mailto:e.a.gibson@columbia.edu}{e.a.gibson@columbia.edu} \\
-       \href{https://lizzyagibson.github.io/index.html}{https://lizzyagibson.github.io} \\
-       \href{https://github.com/lizzyagibson}{github/lizzyagibson}
+       \href{https://lizzyagibson.github.io/index.html}{lizzyagibson.github.io}
         }
     
 }
@@ -363,12 +364,12 @@
 \cvitem{
     \cvdurationstyle{2014 -- 2016}
 }{
-    Epi Scholar (merit-based scholarship at Columbia)
+    Epi Scholar (academic scholarship at Columbia)
 }
 \cvitem{
     \cvdurationstyle{2006 -- 2010}
 }{
-    Oxford Scholar (merit-based scholarship at Emory)
+    Oxford Scholar (academic scholarship at Emory)
 }
 
 \cvsection{HONORS}
@@ -401,7 +402,7 @@
 \cvitem{
     \cvdurationstyle{2016 -- present}
 }{
-    \cvtitle{Graduate Student Researcher}
+    \cvtitle{Graduate Researcher}
 
     Department of Environmental Health Sciences, Columbia University
 
@@ -514,7 +515,7 @@
 \cvitem{
     \cvdurationstyle{Reviewer}
 }{
-    \textit{Environmental Research, Environment International} 
+    \textit{Environmental Health Perspectives, Environmental Research, Environment International} 
 }
 
 % other professional
@@ -557,37 +558,37 @@
     \cvdurationstyle{Peer-Reviewed Articles}
 }{  
     \begin{etaremune}
-	\item Chen Y, Wu F, Liu X, Parvez F, LoIacono NJ, \textbf{Gibson EA}, Kioumourtzoglou M-A, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxena R, Sanchez T, Santiago D, Ellis T, Ahsan H, Wasserman GA, Graziano JH. Early life and adolescent arsenic exposure from drinking water and blood pressure in adolescence. Environmental Research. 2019 Aug 20:108681.	
-	\item \textbf{Gibson EA}, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Goldsmith J, Coull BA, Kioumourtzoglou MA. An overview of methods to address distinct research questions on environmental mixtures: an application to persistent organic pollutants and leukocyte telomere length. Environmental Health. 2019 Dec 1; 18(1): 76. 
-	\item \textbf{Gibson EA}, Goldsmith J, Kioumourtzoglou M-A. Complex Mixtures, Complex Analyses: an Emphasis on Interpretable Results. Current Environmental Health Reports. 2019 May 8:1-9. \\
-	\item \textbf{Gibson EA}, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Anderson KA, Herbstman JB. Differential exposure to organophosphate flame retardants in mother-child pairs. Chemosphere. 2018 Dec 4; 219: 567-73. 
-	\item \textbf{Gibson EA}, Siegel EL, Eniola F, Herbstman JB, Factor-Litvak P. Effects of polybrominated diphenyl ethers on child cognitive, behavioral, and motor development. International Journal of Environmental Research and Public Health. 2018 Aug 2; 15(8): 1636. 
-	\item \textbf{Gibson EA}, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Herbstman JB. Flame retardant exposure assessment: findings from a behavioral intervention study. Journal of Exposure Science \& Environmental Epidemiology. 2018 Jun 28: 1. 
-	\item Wasserman GA, Liu X, Parvez F, Chen Y, Factor-Litvak P, LoIacono NJ, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxena R, \textbf{Gibson EA}, Kioumourtzoglou M-A, Balac O, Sanchez T, Kline JK, Santiago D, Ellis T, van Geen A, Graziano JH. A cross-sectional study of water arsenic exposure and intellectual function in adolescence in Araihazar, Bangladesh. Environment International. 2018 Sep 30; 118: 304-13.
-	\item Lane K, Ito K, Johnson S, \textbf{Gibson EA}, Tang A, Matte T. Burden and risk factors for cold-related illness and death in New York City. International Journal of Environmental Research and Public Health. 2018 Mar 30; 15(4): 632. 
+	\item Chen Y, Wu F, Liu X, Parvez F, LoIacono NJ, {\cvnamefont{Gibson EA}}, Kioumourtzoglou M-A, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxena R, Sanchez T, Santiago D, Ellis T, Ahsan H, Wasserman GA, Graziano JH. Early life and adolescent arsenic exposure from drinking water and blood pressure in adolescence. Environmental Research. 2019 Aug 20:108681.	
+	\item {\cvnamefont{Gibson EA}}, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Goldsmith J, Coull BA, Kioumourtzoglou MA. An overview of methods to address distinct research questions on environmental mixtures: an application to persistent organic pollutants and leukocyte telomere length. Environmental Health. 2019 Dec 1; 18(1): 76. 
+	\item {\cvnamefont{Gibson EA}}, Goldsmith J, Kioumourtzoglou M-A. Complex Mixtures, Complex Analyses: an Emphasis on Interpretable Results. Current Environmental Health Reports. 2019 May 8:1-9. \\
+	\item {\cvnamefont{Gibson EA}}, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Anderson KA, Herbstman JB. Differential exposure to organophosphate flame retardants in mother-child pairs. Chemosphere. 2018 Dec 4; 219: 567-73. 
+	\item {\cvnamefont{Gibson EA}}, Siegel EL, Eniola F, Herbstman JB, Factor-Litvak P. Effects of polybrominated diphenyl ethers on child cognitive, behavioral, and motor development. International Journal of Environmental Research and Public Health. 2018 Aug 2; 15(8): 1636. 
+	\item {\cvnamefont{Gibson EA}}, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Herbstman JB. Flame retardant exposure assessment: findings from a behavioral intervention study. Journal of Exposure Science \& Environmental Epidemiology. 2018 Jun 28: 1. 
+	\item Wasserman GA, Liu X, Parvez F, Chen Y, Factor-Litvak P, LoIacono NJ, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxena R, {\cvnamefont{Gibson EA}}, Kioumourtzoglou M-A, Balac O, Sanchez T, Kline JK, Santiago D, Ellis T, van Geen A, Graziano JH. A cross-sectional study of water arsenic exposure and intellectual function in adolescence in Araihazar, Bangladesh. Environment International. 2018 Sep 30; 118: 304-13.
+	\item Lane K, Ito K, Johnson S, {\cvnamefont{Gibson EA}}, Tang A, Matte T. Burden and risk factors for cold-related illness and death in New York City. International Journal of Environmental Research and Public Health. 2018 Mar 30; 15(4): 632. 
     \end{etaremune}
 }
 
 % presentations
 \cvsection{PRESENTATIONS}
 \cvitem{
-    \cvdurationstyle{Lectures}
+    \cvdurationstyle{Oral}
 }{  
     \begin{etaremune}
      \setcounter{enumi}{7}
-     	\item \textbf{Gibson EA}, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Goldsmith J, Coull BA, and Kioumourtzoglou M-A. An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length. Oral Presentation for Seminar Series, Environmental Health Sciences Department (EHS), Mailman School of Public Health (MSPH), Columbia University. Oct 2019. New York, NY, USA.
-	\item \textbf{Gibson EA}, Kioumourtzoglou M-A, Herbstman JB. Environmental mixtures of endocrine disrupting chemicals and risk to cognitive development. Oral presentation for the American Pediatric Association (APA) Environmental Health Scholars Retreat. October 2018. Providence, Rhode Island, USA.
-	\item \textbf{Gibson EA}, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Anderson KA, Herbstman JB. Flame Retardant Exposure Assessment: Findings from a Behavioral Intervention. Oral presentation for the Brominated Flame Retardant Workshop (BFR). May 2018. Niagara-on-the-lake, Ontario, Canada. 
+     	\item {\cvnamefont{Gibson EA}}, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Goldsmith J, Coull BA, and Kioumourtzoglou M-A. An Overview of Methods to Address Distinct Research Questions on Environmental Mixtures: An Application to Persistent Organic Pollutants and Leukocyte Telomere Length. Oral Presentation for Seminar Series, Environmental Health Sciences Department (EHS), Mailman School of Public Health (MSPH), Columbia University. Oct 2019. New York, NY, USA.
+	\item {\cvnamefont{Gibson EA}}, Kioumourtzoglou M-A, Herbstman JB. Environmental mixtures of endocrine disrupting chemicals and risk to cognitive development. Oral presentation for the American Pediatric Association (APA) Environmental Health Scholars Retreat. October 2018. Providence, Rhode Island, USA.
+	\item {\cvnamefont{Gibson EA}}, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Anderson KA, Herbstman JB. Flame Retardant Exposure Assessment: Findings from a Behavioral Intervention. Oral presentation for the Brominated Flame Retardant Workshop (BFR). May 2018. Niagara-on-the-lake, Ontario, Canada. 
 \end{etaremune}
 }
 
 \cvitem{
-    \cvdurationstyle{Lectures}
+    \cvdurationstyle{Oral}
 }{  
     \begin{etaremune}
-    	\item \textbf{Gibson EA}, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Anderson KA, Herbstman JB. Intervention efficacy: Differentiating signal from noise. Oral presentation for the International Society for Children’s Health and the Environment (ISCHE). August 2016. Whidbey Island, Washington, USA.
-	\item \textbf{Gibson EA}, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Anderson KA, Herbstman JB. Reducing exposure to flame retardants. Does it work? Oral Presentation for Seminar Series, Environmental Health Sciences Department (EHS), Mailman School of Public Health (MSPH), Columbia University. May 2017. New York, NY, USA.
-	\item \textbf{Gibson EA}, Zhou Z, Factor-Litvak P, Perera F, Yu J, Tang D. Molecular effects of in utero cadmium exposure. Oral presentation for Master’s Student Day, Epidemiology Department, Mailman School of Public Health (MSPH), Columbia University. October 2015. New York, NY, USA.  
+    	\item {\cvnamefont{Gibson EA}}, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Anderson KA, Herbstman JB. Intervention efficacy: Differentiating signal from noise. Oral presentation for the International Society for Children’s Health and the Environment (ISCHE). August 2016. Whidbey Island, Washington, USA.
+	\item {\cvnamefont{Gibson EA}}, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Anderson KA, Herbstman JB. Reducing exposure to flame retardants. Does it work? Oral Presentation for Seminar Series, Environmental Health Sciences Department (EHS), Mailman School of Public Health (MSPH), Columbia University. May 2017. New York, NY, USA.
+	\item {\cvnamefont{Gibson EA}}, Zhou Z, Factor-Litvak P, Perera F, Yu J, Tang D. Molecular effects of in utero cadmium exposure. Oral presentation for Master’s Student Day, Epidemiology Department, Mailman School of Public Health (MSPH), Columbia University. October 2015. New York, NY, USA.  
 \end{etaremune}
 }
 
@@ -595,12 +596,12 @@
     \cvdurationstyle{Posters}
 }{  
     \begin{etaremune}
-   	 \item \textbf{Gibson EA}, Spratlen MJ, Colgan R, Wright J, Goldsmith J, Perera FP, Factor-Litvak P, Herbstman JB, Kioumourtzoglou M-A. Patterns of phenol, paraben \& phthalate exposure in NYC women. Poster presentation for the International Society for Environmental Epidemiology (ISEE). August 2019. Utrecht, Netherlands. 
-	\item \textbf{Gibson EA}, Nunez Y, Kioumourtzoglou M-A. Overview of Commonly-Used Methods to Analyze Exposure to Mixtures in Environmental Epidemiology. Poster presentation for the Powering Research Through Innovative Methods for Mixtures in Epidemiology (PRIME) Program Meeting, National Institute of Environmental Health Sciences (NIEHS). April 2019. Research Triangle Park, NC, USA. 
-	\item \textbf{Gibson EA}, Spratlen MJ, Colgan R, Wright J, Goldsmith J, Perera FP, Factor-Litvak P, Herbstman JB, Kioumourtzoglou M-A. Patterns of phenol, paraben \& phthalate exposure in NYC women. Poster presentation for the Powering Research Through Innovative Methods for Mixtures in Epidemiology (PRIME) Program Meeting, National Institute of Environmental Health Sciences (NIEHS). April 2019. Research Triangle Park, NC, USA. 
-    	\item \textbf{Gibson EA}, Kioumourtzoglou M-A, Wasserman GA, Liu X, Parvez F, Chen Y, Factor-Litvak P, LoIacono NJ, Shahriar H, Nasir Uddin M, Islam T, Saxena R, Balac O, Sanchez T, Kline JK, van Geen A, Graziano JH. Metal Exposure as a Mixture and Intellectual Function in Adolescence in Bangladesh. Poster presentation for the International Society for Environmental Epidemiology (ISEE). August 2018. Ottawa, Ontario, Canada.
-	\item \textbf{Gibson EA}, Zhou Z, Factor-Litvak P, Perera F, Yu J, Tang D. Molecular effects of in utero cadmium exposure. Poster presentation for the International Society for Environmental Epidemiology (ISEE). August 2016. Rome, Italy. 
-	\item Lane K, Ito K, Johnson S, \textbf{Gibson EA}, Tang A, Matte T. Investigation of Cold-Related Deaths in New York City, 2009-2015. Poster presentation for the Summit on Environmental Hazards and Health Effects, CDC National Center for Environmental Health. January 2016. Atlanta, GA, USA. \\
+   	 \item {\cvnamefont{Gibson EA}}, Spratlen MJ, Colgan R, Wright J, Goldsmith J, Perera FP, Factor-Litvak P, Herbstman JB, Kioumourtzoglou M-A. Patterns of phenol, paraben \& phthalate exposure in NYC women. Poster presentation for the International Society for Environmental Epidemiology (ISEE). August 2019. Utrecht, Netherlands. 
+	\item {\cvnamefont{Gibson EA}}, Nunez Y, Kioumourtzoglou M-A. Overview of Commonly-Used Methods to Analyze Exposure to Mixtures in Environmental Epidemiology. Poster presentation for the Powering Research Through Innovative Methods for Mixtures in Epidemiology (PRIME) Program Meeting, National Institute of Environmental Health Sciences (NIEHS). April 2019. Research Triangle Park, NC, USA. 
+	\item {\cvnamefont{Gibson EA}}, Spratlen MJ, Colgan R, Wright J, Goldsmith J, Perera FP, Factor-Litvak P, Herbstman JB, Kioumourtzoglou M-A. Patterns of phenol, paraben \& phthalate exposure in NYC women. Poster presentation for the Powering Research Through Innovative Methods for Mixtures in Epidemiology (PRIME) Program Meeting, National Institute of Environmental Health Sciences (NIEHS). April 2019. Research Triangle Park, NC, USA. 
+    	\item {\cvnamefont{Gibson EA}}, Kioumourtzoglou M-A, Wasserman GA, Liu X, Parvez F, Chen Y, Factor-Litvak P, LoIacono NJ, Shahriar H, Nasir Uddin M, Islam T, Saxena R, Balac O, Sanchez T, Kline JK, van Geen A, Graziano JH. Metal Exposure as a Mixture and Intellectual Function in Adolescence in Bangladesh. Poster presentation for the International Society for Environmental Epidemiology (ISEE). August 2018. Ottawa, Ontario, Canada.
+	\item {\cvnamefont{Gibson EA}}, Zhou Z, Factor-Litvak P, Perera F, Yu J, Tang D. Molecular effects of in utero cadmium exposure. Poster presentation for the International Society for Environmental Epidemiology (ISEE). August 2016. Rome, Italy. 
+	\item Lane K, Ito K, Johnson S, {\cvnamefont{Gibson EA}}, Tang A, Matte T. Investigation of Cold-Related Deaths in New York City, 2009-2015. Poster presentation for the Summit on Environmental Hazards and Health Effects, CDC National Center for Environmental Health. January 2016. Atlanta, GA, USA. \\
     \end{etaremune}
 }
 \end{document}
