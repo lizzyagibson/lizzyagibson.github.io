@@ -28,7 +28,7 @@ Lane K, Ito K, Johnson S, **Gibson EA**, Tang A, Matte T. Burden and risk factor
 
 ## Presentations
 
-**Gibson EA**, Yan J, Colgan R, Chillrud L, Wright J, Goldsmith J, Kioumourtzoglou M-A. Principal Component Pursuit for pattern identification in environmental health. Oral Presentation for the American Statistical Association's (ASA Joint Statistical Meetings (JSM). August 2020. Virtual.
+**Gibson EA**, Yan J, Colgan R, Chillrud L, Wright J, Goldsmith J, Kioumourtzoglou M-A. Principal Component Pursuit for pattern identification in environmental health. Oral Presentation for the American Statistical Association's (ASA Joint Statistical Meetings (JSM). August 2020. Virtual. [PDF](papers/jsm_2020.pdf){target="_blank"}
 
 **Gibson EA**, Herbstman JB, Kioumourtzoglou M-A. Complex chemical mixtures in environmental epidemiology. Oral Presentation for Seminar Series, Environmental Health Sciences Department (EHS), Mailman School of Public Health (MSPH), Columbia University. Oct 2019. New York, NY, USA. [PDF](papers/EHS_Seminar_Oct_7.pdf){target="_blank"}
 
