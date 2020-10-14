@@ -28,6 +28,8 @@ Lane K, Ito K, Johnson S, **Gibson EA**, Tang A, Matte T. Burden and risk factor
 
 ## Presentations
 
+**Gibson EA**. Bayesian non-parametric non-negative matrix factorization for identifying patterns in environmental mixtures. Oral presentation for the National Institute of Environmental Health Sciences (NIEHS) Powering Research Through Innovative Methods for Mixtures in Epidemiology (PRIME) Program Meeting. October 2020. Virtual. [PDF](papers/gibson_prime.pdf){target="_blank"}
+
 **Gibson EA**, Goldsmith J, Perera F, Factor-Litvak P, Paisley J, Herbstman JB, Kioumourtzoglou M-A. Identifying patterns in environmental mixtures: a Bayesian approach & application to endocrine disrupting chemicals. Discussion poster presentation for the International Society for Environmental Epidemiology (ISEE). August 2020. Virtual. [PDF](papers/isee_2020_gibson.pdf){target="_blank"}
 
 **Gibson EA**, Yan J, Colgan R, Chillrud L, Wright J, Goldsmith J, Kioumourtzoglou M-A. Principal Component Pursuit for pattern identification in environmental health. Oral presentation for the American Statistical Association's (ASA Joint Statistical Meetings (JSM). August 2020. Virtual. [PDF](papers/jsm_2020.pdf){target="_blank"}
@@ -36,9 +38,9 @@ Lane K, Ito K, Johnson S, **Gibson EA**, Tang A, Matte T. Burden and risk factor
 
 **Gibson EA**, Spratlen MJ, Colgan R, Wright J, Goldsmith J, Perera FP, Factor-Litvak P, Herbstman JB, Kioumourtzoglou M-A. Patterns of phenol, paraben & phthalate exposure in NYC women. Poster presentation for the International Society for Environmental Epidemiology (ISEE). August 2019. Utrecht, Netherlands. [PDF](papers/niehs_pcp_poster.pdf){target="_blank"} 
 
-**Gibson EA**, Nunez Y, Kioumourtzoglou M-A. Overview of Commonly-Used Methods to Analyze Exposure to Mixtures in Environmental Epidemiology. Poster presentation for the Powering Research Through Innovative Methods for Mixtures in Epidemiology (PRIME) Program Meeting, National Institute of Environmental Health Sciences (NIEHS). April 2019. Research Triangle Park, NC, USA. [PDF](papers/NIEHS_PRIME_Overview.pdf){target="_blank"}  | [Code](https://github.com/lizzyagibson/NIEHS-PRIME-Overview-Poster)
+**Gibson EA**, Nunez Y, Kioumourtzoglou M-A. Overview of Commonly-Used Methods to Analyze Exposure to Mixtures in Environmental Epidemiology. Poster presentation for the NIEHS PRIME Program Meeting. April 2019. Research Triangle Park, NC, USA. [PDF](papers/NIEHS_PRIME_Overview.pdf){target="_blank"}  | [Code](https://github.com/lizzyagibson/NIEHS-PRIME-Overview-Poster)
 
-**Gibson EA**, Spratlen MJ, Colgan R, Wright J, Goldsmith J, Perera FP, Factor-Litvak P, Herbstman JB, Kioumourtzoglou M-A. Patterns of phenol, paraben & phthalate exposure in NYC women. Poster presentation for the Powering Research Through Innovative Methods for Mixtures in Epidemiology (PRIME) Program Meeting, National Institute of Environmental Health Sciences (NIEHS). April 2019. Research Triangle Park, NC, USA. [PDF](papers/niehs_pcp_poster.pdf){target="_blank"} 
+**Gibson EA**, Spratlen MJ, Colgan R, Wright J, Goldsmith J, Perera FP, Factor-Litvak P, Herbstman JB, Kioumourtzoglou M-A. Patterns of phenol, paraben & phthalate exposure in NYC women. Poster presentation for the NIEHS PRIME Program Meeting. April 2019. Research Triangle Park, NC, USA. [PDF](papers/niehs_pcp_poster.pdf){target="_blank"} 
 
 **Gibson EA**, Kioumourtzoglou M-A, Herbstman JB. Environmental mixtures of endocrine disrupting chemicals and risk to cognitive development. Oral presentation for the American Pediatric Association (APA) Environmental Health Scholars Retreat. October 2018. Providence, Rhode Island, USA.
 
