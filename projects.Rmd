@@ -8,6 +8,8 @@ title: "Publications"
 
 ## Peer-reviewed Articles
 
+Nunez Y, **Gibson EA**, Tanner EM, Gennings C, Coull BA, Goldsmith JA, Kioumourtzoglou MA. Reflection on modern methods: Good practices for applied statistical learning in epidemiology. International Journal of Epidemiology. 2021 Jan 9; dyaa259, https://doi.org/10.1093/ije/dyaa259. [PDF](papers/nunez_ije.pdf){target="_blank"} 
+
 **Gibson EA**, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Goldsmith J, Coull BA, Kioumourtzoglou MA. An overview of methods to address distinct research questions on environmental mixtures: an application to persistent organic pollutants and leukocyte telomere length. Environmental Health. 2019 Dec 1; 18(1): 76. [PDF](papers/gibson_eh.pdf){target="_blank"} 
 
 Chen Y, Wu F, Liu X, Parvez F, LoIacono NJ, **Gibson EA**, Kioumourtzoglou MA, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxenad R, Sanchez T, Santiago D, Ellis T, Ahsan H, Wasserman, GA, Graziano JH. Early life and adolescent arsenic exposure from drinking water and blood pressure in adolescence. Environmental Research. 2019 Aug 20:108681. [PDF](papers/chen_er.pdf){target="_blank"} 
