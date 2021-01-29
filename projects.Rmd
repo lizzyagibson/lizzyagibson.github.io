@@ -7,9 +7,9 @@ title: "Publications"
 
 ## Peer-reviewed Articles
 
-Nunez Y, **Gibson EA**, Tanner EM, Gennings C, Coull BA, Goldsmith JA, Kioumourtzoglou M-A. Reflection on modern methods: Good practices for applied statistical learning in epidemiology. International Journal of Epidemiology. 2021 Jan 9. [<i class="far fa-file-pdf"></i>](papers/nunez_ije.pdf){target="_blank"} 
+Nunez Y, **Gibson EA**, Tanner EM, Gennings C, Coull BA, Goldsmith JA, Kioumourtzoglou M-A. Reflection on modern methods: Good practices for applied statistical learning in epidemiology. International Journal of Epidemiology. 2021 Jan 9. [<i class="far fa-file-pdf"></i>](papers/nunez_ije.pdf){target="_blank"} | [<i class="fas fa-code"></i>](https://github.com/yanellinunez/Commentary-to-mixture-methods-paper)
 
-**Gibson EA**, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Goldsmith J, Coull BA, Kioumourtzoglou M-A. An overview of methods to address distinct research questions on environmental mixtures: an application to persistent organic pollutants and leukocyte telomere length. Environmental Health. 2019 Dec 1; 18(1): 76. [<i class="far fa-file-pdf"></i>](papers/gibson_eh.pdf){target="_blank"} 
+**Gibson EA**, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Goldsmith J, Coull BA, Kioumourtzoglou M-A. An overview of methods to address distinct research questions on environmental mixtures: an application to persistent organic pollutants and leukocyte telomere length. Environmental Health. 2019 Dec 1; 18(1): 76. [<i class="far fa-file-pdf"></i>](papers/gibson_eh.pdf){target="_blank"} | [<i class="fas fa-code"></i>](https://github.com/lizzyagibson/SHARP.Mixtures.Workshop)
 
 Chen Y, Wu F, Liu X, Parvez F, LoIacono NJ, **Gibson EA**, Kioumourtzoglou M-A, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxenad R, Sanchez T, Santiago D, Ellis T, Ahsan H, Wasserman, GA, Graziano JH. Early life and adolescent arsenic exposure from drinking water and blood pressure in adolescence. Environmental Research. 2019 Aug 20:108681. [<i class="far fa-file-pdf"></i>](papers/chen_er.pdf){target="_blank"} 
 
@@ -39,7 +39,7 @@ Lane K, Ito K, Johnson S, **Gibson EA**, Tang A, Matte T. Burden and risk factor
 
 **Gibson EA**, Spratlen MJ, Colgan R, Wright J, Goldsmith J, Perera FP, Factor-Litvak P, Herbstman JB, Kioumourtzoglou M-A. Patterns of phenol, paraben & phthalate exposure in NYC women. Poster presentation for the International Society for Environmental Epidemiology (ISEE). August 2019. Utrecht, Netherlands. [<i class="far fa-file-pdf"></i>](papers/niehs_pcp_poster.pdf){target="_blank"} 
 
-**Gibson EA**, Nunez Y, Kioumourtzoglou M-A. Overview of Commonly-Used Methods to Analyze Exposure to Mixtures in Environmental Epidemiology. Poster presentation for the NIEHS PRIME Program Meeting. April 2019. Research Triangle Park, NC, USA. [<i class="far fa-file-pdf"></i>](papers/NIEHS_PRIME_Overview.pdf){target="_blank"}  | [Code](https://github.com/lizzyagibson/NIEHS-PRIME-Overview-Poster)
+**Gibson EA**, Nunez Y, Kioumourtzoglou M-A. Overview of Commonly-Used Methods to Analyze Exposure to Mixtures in Environmental Epidemiology. Poster presentation for the NIEHS PRIME Program Meeting. April 2019. Research Triangle Park, NC, USA. [<i class="far fa-file-pdf"></i>](papers/NIEHS_PRIME_Overview.pdf){target="_blank"}  | [<i class="fas fa-code"></i>](https://github.com/lizzyagibson/NIEHS-PRIME-Overview-Poster)
 
 **Gibson EA**, Spratlen MJ, Colgan R, Wright J, Goldsmith J, Perera FP, Factor-Litvak P, Herbstman JB, Kioumourtzoglou M-A. Patterns of phenol, paraben & phthalate exposure in NYC women. Poster presentation for the NIEHS PRIME Program Meeting. April 2019. Research Triangle Park, NC, USA. [<i class="far fa-file-pdf"></i>](papers/niehs_pcp_poster.pdf){target="_blank"} 
 
