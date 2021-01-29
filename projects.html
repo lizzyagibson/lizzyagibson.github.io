@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/united.min.css" rel="stylesheet" />
@@ -25,6 +25,15 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -70,6 +79,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -291,13 +301,13 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="mailto:&lt;e.a.gibson@columbia.edu&gt;">
-    <span class="fa fa-envelope-o fa-lg"></span>
+    <span class="fas fa-envelope-o fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="http://github.com/lizzyagibson/">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-github fa-lg"></span>
      
   </a>
 </li>
@@ -309,7 +319,7 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="https://www.linkedin.com/in/elizabeth-gibson-2689b272/">
-    <span class="fa fa-linkedin-square fa-lg"></span>
+    <span class="fas fa-linkedin-square fa-lg"></span>
      
   </a>
 </li>
@@ -331,9 +341,9 @@ $(document).ready(function () {
 <p><br></p>
 <div id="peer-reviewed-articles" class="section level2">
 <h2>Peer-reviewed Articles</h2>
-<p>Nunez Y, <strong>Gibson EA</strong>, Tanner EM, Gennings C, Coull BA, Goldsmith JA, Kioumourtzoglou MA. Reflection on modern methods: Good practices for applied statistical learning in epidemiology. International Journal of Epidemiology. 2021 Jan 9. <a href="papers/nunez_ije.pdf" target="_blank">PDF</a></p>
-<p><strong>Gibson EA</strong>, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Goldsmith J, Coull BA, Kioumourtzoglou MA. An overview of methods to address distinct research questions on environmental mixtures: an application to persistent organic pollutants and leukocyte telomere length. Environmental Health. 2019 Dec 1; 18(1): 76. <a href="papers/gibson_eh.pdf" target="_blank">PDF</a></p>
-<p>Chen Y, Wu F, Liu X, Parvez F, LoIacono NJ, <strong>Gibson EA</strong>, Kioumourtzoglou MA, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxenad R, Sanchez T, Santiago D, Ellis T, Ahsan H, Wasserman, GA, Graziano JH. Early life and adolescent arsenic exposure from drinking water and blood pressure in adolescence. Environmental Research. 2019 Aug 20:108681. <a href="papers/chen_er.pdf" target="_blank">PDF</a></p>
+<p>Nunez Y, <strong>Gibson EA</strong>, Tanner EM, Gennings C, Coull BA, Goldsmith JA, Kioumourtzoglou M-A. Reflection on modern methods: Good practices for applied statistical learning in epidemiology. International Journal of Epidemiology. 2021 Jan 9. <a href="papers/nunez_ije.pdf" target="_blank">PDF</a></p>
+<p><strong>Gibson EA</strong>, Nunez Y, Abuawad A, Zota AR, Renzetti S, Devick KL, Gennings C, Goldsmith J, Coull BA, Kioumourtzoglou M-A. An overview of methods to address distinct research questions on environmental mixtures: an application to persistent organic pollutants and leukocyte telomere length. Environmental Health. 2019 Dec 1; 18(1): 76. <a href="papers/gibson_eh.pdf" target="_blank">PDF</a></p>
+<p>Chen Y, Wu F, Liu X, Parvez F, LoIacono NJ, <strong>Gibson EA</strong>, Kioumourtzoglou M-A, Levy D, Shahriar H, Uddin MN, Islam T, Lomax A, Saxenad R, Sanchez T, Santiago D, Ellis T, Ahsan H, Wasserman, GA, Graziano JH. Early life and adolescent arsenic exposure from drinking water and blood pressure in adolescence. Environmental Research. 2019 Aug 20:108681. <a href="papers/chen_er.pdf" target="_blank">PDF</a></p>
 <p><strong>Gibson EA</strong>, Goldsmith J, Kioumourtzoglou M-A. Complex Mixtures, Complex Analyses: an Emphasis on Interpretable Results. Current Environmental Health Reports. 2019 May 8:1-9. <a href="papers/gibson_cehr.pdf" target="_blank">PDF</a></p>
 <p><strong>Gibson EA</strong>, Stapleton HM, Calero L, Holmes D, Burke K, Martinez R, Cortes B, Nematollahi A, Evans D, Anderson KA, Herbstman JB. Differential exposure to organophosphate flame retardants in mother-child pairs. Chemosphere. 2018 Dec 4; 219: 567-73. <a href="papers/gibson_chemo.pdf" target="_blank">PDF</a></p>
 <p><strong>Gibson EA</strong>, Siegel EL, Eniola F, Herbstman JB, Factor-Litvak P. Effects of polybrominated diphenyl ethers on child cognitive, behavioral, and motor development. International Journal of Environmental Research and Public Health. 2018 Aug 2; 15(8): 1636. <a href="papers/gibson_ijerph.pdf" target="_blank">PDF</a></p>
@@ -370,7 +380,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
